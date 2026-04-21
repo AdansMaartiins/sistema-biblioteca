@@ -47,7 +47,7 @@ PROJETO-BIBLIOTECA/
 ## 💻 Como Rodar o Projeto
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/AdansMaartiins/sistema-biblioteca.git]
+   git clone https://github.com/AdansMaartiins/sistema-biblioteca.git
 ## 📈 Próximos Passos (Roadmap)
 [ ] Implementar persistência de dados com PostgreSQL.
 
